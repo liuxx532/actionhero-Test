@@ -23,3 +23,85 @@
 {"level":"notice","message":"stopping server: web","timestamp":"2015-11-12T07:34:09.987Z"}
 {"level":"notice","message":"stopping server: websocket","timestamp":"2015-11-12T07:34:09.988Z"}
 {"level":"alert","message":"The actionhero has been stopped","timestamp":"2015-11-12T07:34:09.990Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-11-12T07:42:44.721Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-11-12T07:42:44.754Z"}
+{"level":"info","message":"actionhero member 192.168.6.38 has joined the cluster","timestamp":"2015-11-12T07:42:44.769Z"}
+{"level":"notice","message":"pid: 36206","timestamp":"2015-11-12T07:42:44.914Z"}
+{"level":"notice","message":"server ID: 192.168.6.38","timestamp":"2015-11-12T07:42:44.915Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-11-12T07:42:44.917Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-11-12T07:42:44.917Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-11-12T07:42:44.933Z"}
+{"level":"notice","message":"*** Server Started @ 2015-11-12 15:42:44 ***","timestamp":"2015-11-12T07:42:44.933Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-11-12T07:46:12.905Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-11-12T07:46:12.927Z"}
+{"level":"info","message":"actionhero member 192.168.6.38 has joined the cluster","timestamp":"2015-11-12T07:46:12.939Z"}
+{"level":"notice","message":"pid: 36575","timestamp":"2015-11-12T07:46:13.045Z"}
+{"level":"notice","message":"server ID: 192.168.6.38","timestamp":"2015-11-12T07:46:13.046Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-11-12T07:46:13.047Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-11-12T07:46:13.047Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-11-12T07:46:13.055Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-11-12T07:46:13.060Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-11-12T07:46:13.742Z"}
+{"level":"notice","message":"*** Server Started @ 2015-11-12 15:46:13 ***","timestamp":"2015-11-12T07:46:13.742Z"}
+{"to":"127.0.0.1","action":"showDocumentation","params":"{\"action\":\"showDocumentation\",\"apiVersion\":1}","duration":1,"level":"info","message":"[ action @ web ]","timestamp":"2015-11-12T08:09:30.396Z"}
+{"to":"127.0.0.1","action":"status","params":"{\"action\":\"status\",\"apiVersion\":1}","duration":0,"level":"info","message":"[ action @ web ]","timestamp":"2015-11-12T08:09:30.401Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-11-12T09:18:03.865Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-11-12T09:18:03.893Z"}
+{"level":"info","message":"actionhero member 192.168.6.38 has joined the cluster","timestamp":"2015-11-12T09:18:03.903Z"}
+{"level":"notice","message":"pid: 36651","timestamp":"2015-11-12T09:18:04.034Z"}
+{"level":"notice","message":"server ID: 192.168.6.38","timestamp":"2015-11-12T09:18:04.034Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-11-12T09:18:04.035Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-11-12T09:18:04.035Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-11-12T09:18:04.044Z"}
+{"level":"notice","message":"*** Server Started @ 2015-11-12 17:18:04 ***","timestamp":"2015-11-12T09:18:04.045Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-11-12T09:23:07.774Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-11-12T09:23:07.799Z"}
+{"level":"info","message":"actionhero member 192.168.6.38 has joined the cluster","timestamp":"2015-11-12T09:23:07.807Z"}
+{"level":"notice","message":"pid: 36673","timestamp":"2015-11-12T09:23:07.939Z"}
+{"level":"notice","message":"server ID: 192.168.6.38","timestamp":"2015-11-12T09:23:07.940Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-11-12T09:23:07.941Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-11-12T09:23:07.941Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-11-12T09:23:07.953Z"}
+{"level":"notice","message":"*** Server Started @ 2015-11-12 17:23:07 ***","timestamp":"2015-11-12T09:23:07.954Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-11-12T09:25:21.393Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-11-12T09:25:21.417Z"}
+{"level":"info","message":"actionhero member 192.168.6.38 has joined the cluster","timestamp":"2015-11-12T09:25:21.426Z"}
+{"level":"notice","message":"pid: 36721","timestamp":"2015-11-12T09:25:21.546Z"}
+{"level":"notice","message":"server ID: 192.168.6.38","timestamp":"2015-11-12T09:25:21.546Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-11-12T09:25:21.546Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-11-12T09:25:21.547Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-11-12T09:25:21.556Z"}
+{"level":"notice","message":"*** Server Started @ 2015-11-12 17:25:21 ***","timestamp":"2015-11-12T09:25:21.557Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-11-12T09:28:08.966Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-11-12T09:28:08.991Z"}
+{"level":"info","message":"actionhero member 192.168.6.38 has joined the cluster","timestamp":"2015-11-12T09:28:09.002Z"}
+{"level":"notice","message":"pid: 36742","timestamp":"2015-11-12T09:28:09.126Z"}
+{"level":"notice","message":"server ID: 192.168.6.38","timestamp":"2015-11-12T09:28:09.127Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-11-12T09:28:09.127Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-11-12T09:28:09.127Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-11-12T09:28:09.135Z"}
+{"level":"notice","message":"*** Server Started @ 2015-11-12 17:28:09 ***","timestamp":"2015-11-12T09:28:09.136Z"}
+{"level":"alert","message":"Shutting down open servers and stopping task processing","timestamp":"2015-11-12T09:28:51.195Z"}
+{"level":"notice","message":"stopping server: web","timestamp":"2015-11-12T09:28:51.196Z"}
+{"level":"notice","message":"stopping server: websocket","timestamp":"2015-11-12T09:28:51.197Z"}
+{"level":"alert","message":"The actionhero has been stopped","timestamp":"2015-11-12T09:28:51.201Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-11-12T09:28:54.239Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-11-12T09:28:54.267Z"}
+{"level":"info","message":"actionhero member 192.168.6.38 has joined the cluster","timestamp":"2015-11-12T09:28:54.283Z"}
+{"level":"notice","message":"pid: 36765","timestamp":"2015-11-12T09:28:54.415Z"}
+{"level":"notice","message":"server ID: 192.168.6.38","timestamp":"2015-11-12T09:28:54.416Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-11-12T09:28:54.416Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-11-12T09:28:54.417Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2015-11-12T09:28:54.424Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2015-11-12T09:28:54.430Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-11-12T09:28:55.101Z"}
+{"level":"notice","message":"*** Server Started @ 2015-11-12 17:28:55 ***","timestamp":"2015-11-12T09:28:55.102Z"}
+{"level":"notice","message":"*** starting actionhero ***","timestamp":"2015-11-12T09:29:03.548Z"}
+{"level":"warning","message":"running with fakeredis","timestamp":"2015-11-12T09:29:03.572Z"}
+{"level":"info","message":"actionhero member 192.168.6.38 has joined the cluster","timestamp":"2015-11-12T09:29:03.583Z"}
+{"level":"notice","message":"pid: 36767","timestamp":"2015-11-12T09:29:03.715Z"}
+{"level":"notice","message":"server ID: 192.168.6.38","timestamp":"2015-11-12T09:29:03.715Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2015-11-12T09:29:03.716Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: anotherRoom","timestamp":"2015-11-12T09:29:03.716Z"}
+{"level":"notice","message":"environment: development","timestamp":"2015-11-12T09:29:03.723Z"}
+{"level":"notice","message":"*** Server Started @ 2015-11-12 17:29:03 ***","timestamp":"2015-11-12T09:29:03.724Z"}
