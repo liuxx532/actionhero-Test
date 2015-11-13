@@ -1,25 +1,30 @@
- {
-  "author"      : "YOU <YOU@example.com>",
-  "name"        : "my_actionhero_project",
-  "description" : "my actionhero project",
-  "version"     : "0.0.1",
-  "engines"     : {
-    "node": ">=0.10.0"
-  },
-  "dependencies" : {
-    "actionhero" : "12.2.0",
-    "ws"         : "latest",
-    "grunt"      : "latest"
-  },
-  "devDependencies" : {
-    "mocha"  : "latest",
-    "should" : "latest"
-  },
-  "scripts" : {
-    "help"         : "actionhero help",
-    "start"        : "actionhero start",
-    "actionhero"   : "actionhero",
-    "startCluster" : "actionhero startCluster",
-    "test"         : "mocha"
+{
+    "author": "evan <evan@evantahler.com>",
+    "name": "actionhero_tutorial",
+    "description": "actionhero tutorial",
+    "version": "0.0.1",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/evantahler/actionhero-tutorial.git"
+    },
+    "engines": {
+      "node": ">=0.8.0"
+    },
+    "dependencies": {
+      "actionhero": "11.x.x",
+      "ntwitter": "x",
+      "grunt": "~0.4.2"
+    },
+    "devDependencies": {
+      "should": "x",
+      "mocha": "x",
+      "request": "x"
+    },
+    "scripts": {
+      "help":         "actionhero help",
+      "start":        "actionhero start",
+      "actionhero":   "actionhero",
+      "startCluster": "actionhero startCluster",
+      "test":         "mocha"
+    }
   }
-}
